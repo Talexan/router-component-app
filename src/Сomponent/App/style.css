@@ -1,0 +1,14 @@
+div.header__menu {
+  background-color: darkgray;
+  padding: 20px 20px;
+  border-bottom: 2px solid #4096ff;
+}
+.menu__title {
+  align-content: flex-start;
+  color: #4096ff;
+}
+
+.main__frame {
+  width: 90%;
+  height: 100%;
+}
